@@ -1,5 +1,5 @@
 {
-  "name": "node-hummel-express",
+  "name": "hummel-express",
   "version": "0.5.0",
   "description": "Express.js hummel integration.",
   "main": "index.js",
